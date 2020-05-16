@@ -1,0 +1,10 @@
+com-section js
+com-html-section
+com-section  select and tab
+
+ctrl space nav in docs
+
+how push git bash
+git add <file name>
+git commit -m "commmit mesage"
+git push -u origin masterr
